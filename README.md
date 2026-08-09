@@ -1,6 +1,4 @@
-# Enes Sadi
-
-Business Informatics student at Munich University of Applied Sciences — focused on **Enterprise Architecture** and **Cloud**. What draws me in most is where IT meets real business processes, and how to structure both cleanly.
+Hey, my name is Enes. I am a Business Informatics student at Munich University of Applied Sciences — focused on **Enterprise Architecture** and **Cloud**. What draws me in most is where IT meets real business processes, and how to structure both cleanly.
 
 📍 Munich, Germany
 
@@ -25,10 +23,3 @@ Business Informatics student at Munich University of Applied Sciences — focuse
 - **React** and TypeScript / JavaScript
 - **Azure certifications:** AZ-900
 - Java - **Spring Boot**
-
----
-
-### Contact
-
-- 💼 [LinkedIn](https://linkedin.com/in/enes-sadi)
-- ✉️ enes.sadi@outlook.de
