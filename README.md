@@ -13,8 +13,7 @@ Hey, my name is Enes. I am a Business Informatics student at Munich University o
 ### Tools
 
 **Languages** Java · Python · SQL
-**Architecture & EAM** LeanIX · ArchiMate · TOGAF (in progress)
-**Cloud & Infra** Azure · Terraform · Bash / Azure CLI
+**Architecture & EAM** LeanIX 
 **Data & Tools** PowerBI · Git · IntelliJ · Maven
 
 ### Currently learning
