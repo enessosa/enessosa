@@ -1,16 +1,34 @@
-## Hi there 👋
+# Enes Sadi
 
-<!--
-**enessosa/enessosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Informatics student at Munich University of Applied Sciences — focused on **Enterprise Architecture** and **Cloud**. What draws me in most is where IT meets real business processes, and how to structure both cleanly.
 
-Here are some ideas to get you started:
+📍 Munich, Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently doing
+
+- **Working Student — Enterprise Architecture Management** at Thüga SmartService
+  Metamodel maintenance in LeanIX, modeling system interfaces and SAP dependencies, application fact sheets for IT landscape planning.
+- Moving toward **Solution / Cloud Architecture** — Azure, SQL, and Terraform.
+
+### Tools
+
+**Languages** Java · Python · SQL
+**Architecture & EAM** LeanIX · ArchiMate · TOGAF (in progress)
+**Cloud & Infra** Azure · Terraform · Bash / Azure CLI
+**Data & Tools** PowerBI · Git · IntelliJ · Maven
+
+### Currently learning
+
+
+- **React** and TypeScript / JavaScript
+- **Azure certifications:** AZ-900
+- Java - **Spring Boot**
+
+---
+
+### Contact
+
+- 💼 [LinkedIn](https://linkedin.com/in/enes-sadi)
+- ✉️ enes.sadi@outlook.de
