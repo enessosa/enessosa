@@ -1,4 +1,4 @@
-Hey, my name is Enes. I am a Business Informatics student at Munich University of Applied Sciences — focused on **Enterprise Architecture** and **Cloud**. What draws me in most is where IT meets real business processes, and how to structure both cleanly.
+Hey, my name is Enes. I am an Information-Systems student at Munich University of Applied Sciences — focused on **Enterprise Architecture** and **Cloud**. What draws me in most is where IT meets real business processes, and how to structure both cleanly.
 
 📍 Munich, Germany
 
