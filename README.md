@@ -7,9 +7,11 @@ Hey, my name is Enes. I am an Information-Systems student at Munich University o
 ### Currently doing
 
 - **Working Student — Enterprise Architecture Management** at Thüga SmartService
+
   - Metamodel maintenance in LeanIX
   - modeling system interfaces and SAP dependencies
   - application fact sheets for IT landscape planning.
+
 - Moving toward **Solution / Cloud Architecture** — Azure, SQL, and Terraform.
 
 ### Tools
