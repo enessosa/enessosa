@@ -16,11 +16,11 @@ Hey, my name is Enes. I am an Information-Systems student at Munich University o
 
 ### Tools
 
-**Languages** Java · Python · SQL
+**Languages**: Java · Python · SQL
 
-**Architecture & EAM** LeanIX 
+**Architecture & EAM**: LeanIX 
 
-**Data & Tools** PowerBI · Git · IntelliJ · Maven
+**Data & Tools**: PowerBI · Git · IntelliJ · Maven
 
 ### Currently learning
 
