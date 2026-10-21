@@ -24,7 +24,5 @@ Hey, my name is Enes. I am an Information-Systems student at Munich University o
 
 ### Currently learning
 
-
-- **React** and TypeScript / JavaScript
 - **Azure certifications:** AZ-900
 - Java - **Spring Boot**
